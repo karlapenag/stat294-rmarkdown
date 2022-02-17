@@ -15,7 +15,7 @@ Phenome-wide association studies (PheWAS) analyze many phenotypes compared to a 
 
 ## PheWAS in R Package
 
-PheWAS can be ran in RStudio.
+PheWAS can be run in RStudio.
 
 
 
