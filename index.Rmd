@@ -1,0 +1,23 @@
+---
+title: "PheWAS"
+author: "Karla Peña"
+date: "2/17/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## PheWAS
+
+Phenome-wide association studies (PheWAS) analyze many phenotypes compared to a single genetic variant (or other attribute). This method was originally described using electronic medical record (EMR) data from EMR-linked in the Vanderbilt DNA biobank, BioVU, but can also be applied to other richly phenotyped sets.
+
+## PheWAS in R Package
+
+PheWAS can be ran in RStudio.
+
+
+
+
+
